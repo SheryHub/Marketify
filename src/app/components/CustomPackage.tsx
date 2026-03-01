@@ -1,5 +1,5 @@
 import { useState } from "react";
-import customImage from "@/asset/4f2be3886e4036a34dde90a80892059f45fde2f1.png";
+import customImage from "@/assets/4f2be3886e4036a34dde90a80892059f45fde2f1.png";
 
 const options = [
   "One-time setup or full monthly management",
