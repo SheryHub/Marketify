@@ -1,5 +1,5 @@
 import { useState } from "react";
-import heroImage from "@/asset/76faaedc5cf70e0bc0fdb46bbfd9016387017c70.png";
+import heroImage from "@/assets/76faaedc5cf70e0bc0fdb46bbfd9016387017c70.png";
 
 export function Hero() {
   const [hovered, setHovered] = useState(false);
