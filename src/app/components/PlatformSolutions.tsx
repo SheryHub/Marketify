@@ -1,5 +1,5 @@
 import { useState } from "react";
-import platformImage from "@/asset/63d48cac31734593322642f1b7a5f5f4c5b2d8a6.png";
+import platformImage from "@/assets/63d48cac31734593322642f1b7a5f5f4c5b2d8a6.png";
 
 const youtubeServices = [
   "Channel Management, Video SEO & Thumbnails",
