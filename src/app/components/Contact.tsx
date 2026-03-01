@@ -1,5 +1,5 @@
 import { Mail, Instagram, Facebook } from "lucide-react";
-import logoImage from "@/asset/bd76192cfbcc6d0ef5972ac718d0d2698feb288c.png";
+import logoImage from "@/assets/bd76192cfbcc6d0ef5972ac718d0d2698feb288c.png";
 
 const contactInfo = [
   {
