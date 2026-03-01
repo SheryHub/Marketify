@@ -1,5 +1,5 @@
 import { useState } from "react";
-import visionImage from "../../asset/93129c238527bd0e2a46a2f1267d7bcdafd254ef.png";
+import visionImage from "@/asset/93129c238527bd0e2a46a2f1267d7bcdafd254ef.png";
 
 const platforms = [
   {
